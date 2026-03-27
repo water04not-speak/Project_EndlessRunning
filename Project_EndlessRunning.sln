@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project_EndlessRunning", "Project_EndlessRunning.vcxproj", "{887AA384-92E2-44E8-A8E4-8D93E9E2C6D3}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "天天酷跑", "..\天天酷跑\天天酷跑.vdproj", "{BA3216EA-B553-AE67-91E7-162A35BD567A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{887AA384-92E2-44E8-A8E4-8D93E9E2C6D3}.Debug|x64.ActiveCfg = Debug|x64
+		{887AA384-92E2-44E8-A8E4-8D93E9E2C6D3}.Debug|x64.Build.0 = Debug|x64
+		{887AA384-92E2-44E8-A8E4-8D93E9E2C6D3}.Debug|x86.ActiveCfg = Debug|Win32
+		{887AA384-92E2-44E8-A8E4-8D93E9E2C6D3}.Debug|x86.Build.0 = Debug|Win32
+		{887AA384-92E2-44E8-A8E4-8D93E9E2C6D3}.Release|x64.ActiveCfg = Release|x64
+		{887AA384-92E2-44E8-A8E4-8D93E9E2C6D3}.Release|x64.Build.0 = Release|x64
+		{887AA384-92E2-44E8-A8E4-8D93E9E2C6D3}.Release|x86.ActiveCfg = Release|Win32
+		{887AA384-92E2-44E8-A8E4-8D93E9E2C6D3}.Release|x86.Build.0 = Release|Win32
+		{BA3216EA-B553-AE67-91E7-162A35BD567A}.Debug|x64.ActiveCfg = Debug
+		{BA3216EA-B553-AE67-91E7-162A35BD567A}.Debug|x86.ActiveCfg = Debug
+		{BA3216EA-B553-AE67-91E7-162A35BD567A}.Release|x64.ActiveCfg = Release
+		{BA3216EA-B553-AE67-91E7-162A35BD567A}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BE0459F-6024-4387-97A7-C27A4F621403}
+	EndGlobalSection
+EndGlobal

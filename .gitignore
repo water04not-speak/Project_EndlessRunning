@@ -1,0 +1,19 @@
+# Visual Studio 缓存
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# 编译产物
+x64/
+Release/
+Debug/
+ipch/
+*.pdb
+*.ilk
+*.exe
+
+# 日志与临时文件
+*.log
+*.htm
+*.html
