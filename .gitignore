@@ -3,17 +3,30 @@
 *.user
 *.suo
 *.sln.docstates
+*.VC.db
+*.VC.VC.opendb
+*.opendb
 
 # 编译产物
 x64/
 Release/
 Debug/
 ipch/
+obj/
+bin/
 *.pdb
 *.ilk
 *.exe
+*.obj
+*.idb
+*.ipdb
+*.iobj
 
 # 日志与临时文件
 *.log
 *.htm
 *.html
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
